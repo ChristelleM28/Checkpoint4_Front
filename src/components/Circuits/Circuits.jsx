@@ -1,14 +1,14 @@
 import React from 'react';
 import NavBar from "../NavBar/NavBar";
-import "./Contact.css";
+import "./Circuits.css";
 
-function Contact() {
+function Circuits() {
   return (
     <div>
       <NavBar />
-      <h1>Contact</h1>
+      <h1>Circuits</h1>
     </div>
   );
 }
 
-export default Contact
+export default Circuits
